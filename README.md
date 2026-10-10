@@ -1,1 +1,2 @@
-<img width="736" height="368" alt="the bear" src="https://github.com/user-attachments/assets/7eae094e-01a8-4c5c-9977-0abe61da15f9" />
+<img width="736" height="414" alt="download (2)" src="https://github.com/user-attachments/assets/b4d9856b-f314-4c82-9b67-6d971513c32a" />
+
